@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 💻 My LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/jatin5498?ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Narwani_ninja5498?ext=heatmap)
 
